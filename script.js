@@ -7,7 +7,7 @@ const wrapperRect = wrapper.getBoundingClientRect();
 const noBtnRect = noBtn.getBoundingClientRect();
 
 yesBtn.addEventListener('click', () => {
-	question.innerHTML = 'I love you babe mwa';
+	question.innerHTML = 'Yay see ya mwa <3';
 });
 
 noBtn.addEventListener('mouseover', () => {
